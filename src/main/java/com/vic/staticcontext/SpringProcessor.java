@@ -1,8 +1,5 @@
 package com.vic.staticcontext;
 
-/**
- * Created by victor on 4/29/19.
- */
 public class SpringProcessor implements Processor {
     @Override
     public void init() {
